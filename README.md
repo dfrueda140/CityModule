@@ -1,16 +1,13 @@
 # CityModule
-Modular project for cities
+Modular Cities for a complex world
 
-This project is created in order to create a collaborative work between people passionate about smart cities. I believe if we really want to go to the society we require to change the way we live. More important change our cities. 
+This project aims to produce collaborative work among people passionate about smart cities. We believe in the will of the citizens to change the society, and willing to work for it.
 
-Please feel free to share any information, open discussions projects so all of us can follow and learn more about impactful ways to improve our cities. 
-
-## Objective
+# Objective
 The idea with this project is to create an integrated view of the cities. Module by module will be added using a ground-based technology.
-
 At the end we want to create a holistic view of the city, making the citizen the most important part of the city.
 
-We aim to improve, justice, security, mobility, bureaucracy, economy, education, and more. This project is ambitious but step by step we will create awareness, innovation and new possibilities to grow as a society.
+We aim to improve, justice, security, mobility, bureaucracy, economy, education, and more by creating a smooth integration. This project is ambitious but step by step we will create awareness, innovation and new possibilities to grow as a society. 
 
 ## Integration
 Each module will work in an independent way, but they may be called by other modules. The black box within the project must be designed and organized in order to obtain and coordinate the way communications between the modules will be performed.
